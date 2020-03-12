@@ -10,7 +10,8 @@ class WebDriverFactory:
     def get_driver_instance(self):
 
         # choose the baseURL
-        base_url = "http://50.108.46.90:6080/"
+        # base_url = "http://50.108.46.90:6080/"
+        base_url = "https://demo.clickdoc.de"
 
         # browser driver path Firefox & Chrome
         cur_work_dir = os.getcwd()

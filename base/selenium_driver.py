@@ -96,9 +96,10 @@ class SeleniumDriver:
 
         if element is not None:
             self.log.info("Element Clicked")
+            element.click()
         else:
             self.log.info("Element could not be clicked")
-        element.click()
+
 
     def clear_field(self, locator_type, locator):
 
@@ -132,10 +133,10 @@ class SeleniumDriver:
             by_type = "xpath"
             wait = WebDriverWait(self.driver, timeout, poll_frequency)
             locator = "//div[@class='loading-wrap']/img"
+            # locator = ".loading-wrap>img"
             # Checking for Loading Circle ...
             # Loading Circle found ... polling till it disappears
             wait.until(EC.invisibility_of_element_located((by_type, locator)))
-
         except:
             # self.log.info.error("Loading Circle found ... till 30 seconds timeout")
             self.log.info("Loading Circle found ... till 30 seconds timeout")
