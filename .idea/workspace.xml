@@ -4,11 +4,8 @@
     <list default="true" id="b5fd2730-3838-4b4b-9ff8-bf88aca3a931" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/web_driver_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/web_driver_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/login_page_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/login_page_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/home/Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/Login_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Page Title Verification.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Page Title Verification.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,9 +105,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583303780241" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584025957026">
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585207322163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584025957026" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585207322163" />
   </component>
 </project>

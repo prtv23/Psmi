@@ -2136,3 +2136,32 @@
 03052020 09:58:35 AM - SeleniumDriver - INFO: Element was not found
 03052020 09:58:35 AM - SeleniumDriver - INFO: Element was not found
 03052020 10:03:12 AM - SeleniumDriver - INFO: Element was not found
+03262020 07:28:12 AM - SeleniumDriver - INFO: Element was not found
+03262020 07:29:38 AM - SeleniumDriver - INFO: Element Found
+03262020 07:29:38 AM - SeleniumDriver - INFO: Element Found
+03262020 07:29:38 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:29:43 AM - SeleniumDriver - INFO: is_element_present : Element Found
+03262020 07:29:43 AM - TestResult - INFO: True added into the listLogin Verification
+03262020 07:29:43 AM - TestResult - INFO: True added into the listPage Title Verification
+03262020 07:29:45 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:29:45 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:31:21 AM - SeleniumDriver - INFO: Element Found
+03262020 07:31:23 AM - SeleniumDriver - INFO: Element Found
+03262020 07:31:23 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:31:26 AM - SeleniumDriver - INFO: is_element_present : Element Found
+03262020 07:31:26 AM - TestResult - INFO: True added into the listLogin Verification
+03262020 07:31:26 AM - TestResult - INFO: True added into the listPage Title Verification
+03262020 07:31:28 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:31:28 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:36:53 AM - SeleniumDriver - INFO: Element Found
+03262020 07:36:54 AM - SeleniumDriver - INFO: Element Found
+03262020 07:36:54 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:36:55 AM - SeleniumDriver - INFO: is_element_present : Element Found
+03262020 07:36:55 AM - SeleniumDriver - INFO: Element Found
+03262020 07:36:56 AM - SeleniumDriver - INFO: Element Found
+03262020 07:36:57 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:37:01 AM - SeleniumDriver - INFO: is_element_present : Element Found
+03262020 07:37:01 AM - TestResult - INFO: True added into the listLogin Verification
+03262020 07:37:01 AM - TestResult - INFO: True added into the listPage Title Verification
+03262020 07:37:02 AM - SeleniumDriver - INFO: Element Clicked
+03262020 07:37:02 AM - SeleniumDriver - INFO: Element Clicked

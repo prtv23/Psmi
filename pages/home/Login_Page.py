@@ -49,7 +49,6 @@ class LoginPage(SeleniumDriver):
         return page_title
 
     def invalid_login(self, username, password):
-        self.element_click("xpath", self._link_profile_icon)
         self.enter_email(username)
         self.enter_password(password)
         self.click_sign_in_button()
