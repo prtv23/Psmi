@@ -1,0 +1,8 @@
+INFO     SeleniumDriver:selenium_driver.py:87 Element Found
+INFO     SeleniumDriver:selenium_driver.py:87 Element Found
+INFO     SeleniumDriver:selenium_driver.py:98 Element Clicked
+INFO     SeleniumDriver:selenium_driver.py:64 is_element_present : Element Found
+INFO     TestResult:test_result.py:24 True added into the listLogin Verification
+INFO     TestResult:test_result.py:24 True added into the listPage Title Verification
+INFO     SeleniumDriver:selenium_driver.py:98 Element Clicked
+INFO     SeleniumDriver:selenium_driver.py:98 Element Clicked

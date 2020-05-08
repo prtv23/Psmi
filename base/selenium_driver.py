@@ -100,7 +100,6 @@ class SeleniumDriver:
         else:
             self.log.info("Element could not be clicked")
 
-
     def clear_field(self, locator_type, locator):
 
         _by_type = self.get_by_type(locator_type)

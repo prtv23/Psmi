@@ -3,7 +3,7 @@ from utilities.test_result import TestResult
 from data.login_page_data import LoginPageData as Data
 import pytest
 import unittest
-
+import allure
 
 @pytest.mark.usefixtures("onetime_setup", "setup")
 class LoginTests(unittest.TestCase):
@@ -12,6 +12,8 @@ class LoginTests(unittest.TestCase):
         self.lp = LoginPage(self.driver)
         self.TS = TestResult(self.driver)
 
+    @allure.description("Valid User Login Test Case")
+    @allure.severity(severity_level="NORMAL")
     @pytest.mark.run(order=2)
     def test_valid_login(self):
         login_result = self.lp.valid_login(Data.email_id, Data.password)
@@ -21,6 +23,8 @@ class LoginTests(unittest.TestCase):
         assert True == tc_result
         self.lp.sign_out()
 
+    @allure.description("Invalid User Login Test Case")
+    @allure.severity(severity_level="HIGH")
     @pytest.mark.run(order=1)
     def test_invalid_login(self):
         result = self.lp.invalid_login(Data.email_id, Data.invalid_passwd)

@@ -1,6 +1,9 @@
+from allure_commons.types import AttachmentType
+
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as cl
 import logging
+import allure
 
 
 class TestResult(SeleniumDriver):
@@ -24,6 +27,7 @@ class TestResult(SeleniumDriver):
                 self.test_status_list.append(False)
                 self.log.info(str(result)+" "+"added into the list"+result_message)
                 self.take_screenshots(result_message)
+                allure.attach(self.driver.get_screenshot_as_png(), name=result_message, attachment_type=AttachmentType.png)
         else:
             self.log.error("No result was available"+result_message)
             self.take_screenshots(result_message)

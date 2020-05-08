@@ -1,0 +1,4 @@
+INFO     SeleniumDriver:selenium_driver.py:87 Element Found
+INFO     SeleniumDriver:selenium_driver.py:87 Element Found
+INFO     SeleniumDriver:selenium_driver.py:98 Element Clicked
+INFO     SeleniumDriver:selenium_driver.py:64 is_element_present : Element Found

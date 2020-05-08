@@ -2165,3 +2165,406 @@
 03262020 07:37:01 AM - TestResult - INFO: True added into the listPage Title Verification
 03262020 07:37:02 AM - SeleniumDriver - INFO: Element Clicked
 03262020 07:37:02 AM - SeleniumDriver - INFO: Element Clicked
+04032020 08:32:36 AM - SeleniumDriver - INFO: Element Found
+04032020 08:32:36 AM - SeleniumDriver - INFO: Element Found
+04032020 08:32:36 AM - SeleniumDriver - INFO: Element Clicked
+04032020 08:32:39 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 08:32:39 AM - SeleniumDriver - INFO: Element Found
+04032020 08:32:39 AM - SeleniumDriver - INFO: Element Found
+04032020 08:32:39 AM - SeleniumDriver - INFO: Element Clicked
+04032020 08:32:44 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 08:32:44 AM - TestResult - INFO: True added into the listLogin Verification
+04032020 08:32:44 AM - TestResult - INFO: True added into the listPage Title Verification
+04032020 08:32:47 AM - SeleniumDriver - INFO: Element Clicked
+04032020 08:32:47 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:34:45 AM - SeleniumDriver - INFO: Element Found
+04032020 10:34:46 AM - SeleniumDriver - INFO: Element Found
+04032020 10:34:46 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:34:48 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:34:48 AM - SeleniumDriver - INFO: Element Found
+04032020 10:34:48 AM - SeleniumDriver - INFO: Element Found
+04032020 10:34:48 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:34:51 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:34:51 AM - TestResult - INFO: True added into the listLogin Verification
+04032020 10:34:51 AM - TestResult - INFO: True added into the listPage Title Verification
+04032020 10:34:54 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:34:54 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:37:18 AM - SeleniumDriver - INFO: Element Found
+04032020 10:37:18 AM - SeleniumDriver - INFO: Element Found
+04032020 10:37:19 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:37:19 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:37:19 AM - SeleniumDriver - INFO: Element Found
+04032020 10:37:20 AM - SeleniumDriver - INFO: Element Found
+04032020 10:37:20 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:37:21 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:37:21 AM - TestResult - INFO: True added into the listLogin Verification
+04032020 10:37:21 AM - TestResult - INFO: True added into the listPage Title Verification
+04032020 10:37:24 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:37:24 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:40:43 AM - SeleniumDriver - INFO: Element Found
+04032020 10:40:43 AM - SeleniumDriver - INFO: Element Found
+04032020 10:40:43 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:40:44 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:40:44 AM - SeleniumDriver - INFO: Element Found
+04032020 10:40:44 AM - SeleniumDriver - INFO: Element Found
+04032020 10:40:44 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:40:46 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:40:46 AM - TestResult - INFO: True added into the listLogin Verification
+04032020 10:40:46 AM - TestResult - INFO: True added into the listPage Title Verification
+04032020 10:40:48 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:40:49 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:45:55 AM - SeleniumDriver - INFO: Element Found
+04032020 10:45:55 AM - SeleniumDriver - INFO: Element Found
+04032020 10:45:55 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:45:56 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:45:56 AM - SeleniumDriver - INFO: Element Found
+04032020 10:45:56 AM - SeleniumDriver - INFO: Element Found
+04032020 10:45:56 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:45:58 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 10:45:58 AM - TestResult - INFO: True added into the listLogin Verification
+04032020 10:45:58 AM - TestResult - INFO: True added into the listPage Title Verification
+04032020 10:46:01 AM - SeleniumDriver - INFO: Element Clicked
+04032020 10:46:01 AM - SeleniumDriver - INFO: Element Clicked
+04032020 11:01:32 AM - SeleniumDriver - INFO: Element Found
+04032020 11:01:32 AM - SeleniumDriver - INFO: Element Found
+04032020 11:01:32 AM - SeleniumDriver - INFO: Element Clicked
+04032020 11:01:33 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 11:01:34 AM - SeleniumDriver - INFO: Element Found
+04032020 11:01:34 AM - SeleniumDriver - INFO: Element Found
+04032020 11:01:34 AM - SeleniumDriver - INFO: Element Clicked
+04032020 11:01:36 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 11:01:36 AM - TestResult - INFO: True added into the listLogin Verification
+04032020 11:01:36 AM - TestResult - INFO: True added into the listPage Title Verification
+04032020 11:01:38 AM - SeleniumDriver - INFO: Element Clicked
+04032020 11:01:38 AM - SeleniumDriver - INFO: Element Clicked
+04032020 01:34:14 PM - SeleniumDriver - INFO: Element Found
+04032020 01:34:14 PM - SeleniumDriver - INFO: Element Found
+04032020 01:34:14 PM - SeleniumDriver - INFO: Element Clicked
+04032020 01:34:16 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 01:34:16 PM - SeleniumDriver - INFO: Element Found
+04032020 01:34:16 PM - SeleniumDriver - INFO: Element Found
+04032020 01:34:16 PM - SeleniumDriver - INFO: Element Clicked
+04032020 01:34:20 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 01:34:20 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 01:34:20 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 01:34:22 PM - SeleniumDriver - INFO: Element Clicked
+04032020 01:34:22 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:01:21 PM - SeleniumDriver - INFO: Element Found
+04032020 02:01:21 PM - SeleniumDriver - INFO: Element Found
+04032020 02:01:21 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:01:22 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:01:23 PM - SeleniumDriver - INFO: Element Found
+04032020 02:01:23 PM - SeleniumDriver - INFO: Element Found
+04032020 02:01:23 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:01:26 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:01:26 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 02:01:26 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 02:01:28 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:01:28 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:04:44 PM - SeleniumDriver - INFO: Element Found
+04032020 02:04:44 PM - SeleniumDriver - INFO: Element Found
+04032020 02:04:44 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:04:46 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:04:46 PM - SeleniumDriver - INFO: Element Found
+04032020 02:04:46 PM - SeleniumDriver - INFO: Element Found
+04032020 02:04:46 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:04:48 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:04:48 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 02:04:48 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 02:04:50 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:04:50 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:06:49 PM - SeleniumDriver - INFO: Element Found
+04032020 02:06:49 PM - SeleniumDriver - INFO: Element Found
+04032020 02:06:49 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:06:50 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:06:50 PM - SeleniumDriver - INFO: Element Found
+04032020 02:06:50 PM - SeleniumDriver - INFO: Element Found
+04032020 02:06:50 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:06:52 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:06:52 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 02:06:52 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 02:06:54 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:06:54 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:21:47 PM - SeleniumDriver - INFO: Element Found
+04032020 02:21:47 PM - SeleniumDriver - INFO: Element Found
+04032020 02:21:47 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:21:48 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:21:48 PM - SeleniumDriver - INFO: Element Found
+04032020 02:21:48 PM - SeleniumDriver - INFO: Element Found
+04032020 02:21:48 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:21:50 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:21:50 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 02:21:50 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 02:21:52 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:21:53 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:22:35 PM - SeleniumDriver - INFO: Element Found
+04032020 02:22:35 PM - SeleniumDriver - INFO: Element Found
+04032020 02:22:35 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:22:36 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:22:36 PM - SeleniumDriver - INFO: Element Found
+04032020 02:22:36 PM - SeleniumDriver - INFO: Element Found
+04032020 02:22:37 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:22:39 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 02:22:39 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 02:22:39 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 02:22:41 PM - SeleniumDriver - INFO: Element Clicked
+04032020 02:22:41 PM - SeleniumDriver - INFO: Element Clicked
+04032020 03:02:35 PM - SeleniumDriver - INFO: Element Found
+04032020 03:02:35 PM - SeleniumDriver - INFO: Element Found
+04032020 03:02:35 PM - SeleniumDriver - INFO: Element Clicked
+04032020 03:02:37 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 03:02:37 PM - SeleniumDriver - INFO: Element Found
+04032020 03:02:37 PM - SeleniumDriver - INFO: Element Found
+04032020 03:02:37 PM - SeleniumDriver - INFO: Element Clicked
+04032020 03:02:41 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 03:02:41 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 03:02:41 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 03:02:43 PM - SeleniumDriver - INFO: Element Clicked
+04032020 03:02:43 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:17:01 PM - SeleniumDriver - INFO: Element Found
+04032020 04:17:02 PM - SeleniumDriver - INFO: Element Found
+04032020 04:17:02 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:17:03 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:17:03 PM - SeleniumDriver - INFO: Element Found
+04032020 04:17:04 PM - SeleniumDriver - INFO: Element Found
+04032020 04:17:04 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:17:06 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:17:06 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:17:06 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:17:08 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:17:09 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:22:36 PM - SeleniumDriver - INFO: Element Found
+04032020 04:22:37 PM - SeleniumDriver - INFO: Element Found
+04032020 04:22:37 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:22:38 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:22:38 PM - SeleniumDriver - INFO: Element Found
+04032020 04:22:38 PM - SeleniumDriver - INFO: Element Found
+04032020 04:22:38 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:22:40 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:22:40 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:22:40 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:22:42 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:22:43 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:23:46 PM - SeleniumDriver - INFO: Element Found
+04032020 04:23:46 PM - SeleniumDriver - INFO: Element Found
+04032020 04:23:46 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:23:47 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:23:47 PM - SeleniumDriver - INFO: Element Found
+04032020 04:23:47 PM - SeleniumDriver - INFO: Element Found
+04032020 04:23:47 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:23:49 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:23:49 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:23:49 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:23:51 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:23:51 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:24:36 PM - SeleniumDriver - INFO: Element Found
+04032020 04:24:36 PM - SeleniumDriver - INFO: Element Found
+04032020 04:24:36 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:24:37 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:24:37 PM - SeleniumDriver - INFO: Element Found
+04032020 04:24:38 PM - SeleniumDriver - INFO: Element Found
+04032020 04:24:38 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:24:39 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:24:39 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:24:39 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:24:42 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:24:42 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:28:25 PM - SeleniumDriver - INFO: Element Found
+04032020 04:28:25 PM - SeleniumDriver - INFO: Element Found
+04032020 04:28:26 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:28:26 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:28:26 PM - SeleniumDriver - INFO: Element Found
+04032020 04:28:27 PM - SeleniumDriver - INFO: Element Found
+04032020 04:28:27 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:28:29 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:28:29 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:28:29 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:28:31 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:28:31 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:31:44 PM - SeleniumDriver - INFO: Element Found
+04032020 04:31:44 PM - SeleniumDriver - INFO: Element Found
+04032020 04:31:44 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:31:45 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:31:45 PM - SeleniumDriver - INFO: Element Found
+04032020 04:31:46 PM - SeleniumDriver - INFO: Element Found
+04032020 04:31:46 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:31:48 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:31:48 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:31:48 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:31:50 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:31:50 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:35:31 PM - SeleniumDriver - INFO: Element Found
+04032020 04:35:31 PM - SeleniumDriver - INFO: Element Found
+04032020 04:35:32 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:35:32 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:35:33 PM - SeleniumDriver - INFO: Element Found
+04032020 04:35:33 PM - SeleniumDriver - INFO: Element Found
+04032020 04:35:33 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:35:37 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:35:37 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:35:37 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:35:39 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:35:40 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:38:15 PM - SeleniumDriver - INFO: Element Found
+04032020 04:38:15 PM - SeleniumDriver - INFO: Element Found
+04032020 04:38:16 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:38:16 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:38:16 PM - SeleniumDriver - INFO: Element Found
+04032020 04:38:17 PM - SeleniumDriver - INFO: Element Found
+04032020 04:38:17 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:38:19 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:38:19 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:38:19 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:38:21 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:38:21 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:39:01 PM - SeleniumDriver - INFO: Element Found
+04032020 04:39:01 PM - SeleniumDriver - INFO: Element Found
+04032020 04:39:01 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:39:02 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:39:02 PM - SeleniumDriver - INFO: Element Found
+04032020 04:39:02 PM - SeleniumDriver - INFO: Element Found
+04032020 04:39:02 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:39:04 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04032020 04:39:04 PM - TestResult - INFO: True added into the listLogin Verification
+04032020 04:39:04 PM - TestResult - INFO: True added into the listPage Title Verification
+04032020 04:39:06 PM - SeleniumDriver - INFO: Element Clicked
+04032020 04:39:06 PM - SeleniumDriver - INFO: Element Clicked
+04042020 11:39:41 AM - SeleniumDriver - INFO: Element Found
+04042020 11:39:41 AM - SeleniumDriver - INFO: Element Found
+04042020 11:39:41 AM - SeleniumDriver - INFO: Element Clicked
+04042020 11:39:44 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04042020 11:39:44 AM - SeleniumDriver - INFO: Element Found
+04042020 11:39:45 AM - SeleniumDriver - INFO: Element Found
+04042020 11:39:45 AM - SeleniumDriver - INFO: Element Clicked
+04042020 11:39:49 AM - SeleniumDriver - INFO: is_element_present : Element Found
+04042020 11:39:49 AM - TestResult - INFO: True added into the listLogin Verification
+04042020 11:39:49 AM - TestResult - INFO: True added into the listPage Title Verification
+04042020 11:39:52 AM - SeleniumDriver - INFO: Element Clicked
+04042020 11:39:52 AM - SeleniumDriver - INFO: Element Clicked
+04052020 04:08:13 PM - SeleniumDriver - INFO: Element Found
+04052020 04:08:13 PM - SeleniumDriver - INFO: Element Found
+04052020 04:08:14 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:08:16 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04052020 04:08:16 PM - SeleniumDriver - INFO: Element Found
+04052020 04:08:16 PM - SeleniumDriver - INFO: Element Found
+04052020 04:08:16 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:08:19 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04052020 04:08:19 PM - TestResult - INFO: True added into the listLogin Verification
+04052020 04:08:19 PM - TestResult - INFO: True added into the listPage Title Verification
+04052020 04:08:22 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:08:22 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:11:26 PM - SeleniumDriver - INFO: Element Found
+04052020 04:11:26 PM - SeleniumDriver - INFO: Element Found
+04052020 04:11:26 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:11:27 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04052020 04:11:27 PM - SeleniumDriver - INFO: Element Found
+04052020 04:11:27 PM - SeleniumDriver - INFO: Element Found
+04052020 04:11:27 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:11:29 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04052020 04:11:29 PM - TestResult - INFO: True added into the listLogin Verification
+04052020 04:11:29 PM - TestResult - INFO: True added into the listPage Title Verification
+04052020 04:11:32 PM - SeleniumDriver - INFO: Element Clicked
+04052020 04:11:32 PM - SeleniumDriver - INFO: Element Clicked
+04052020 08:05:36 PM - SeleniumDriver - INFO: Element Found
+04052020 08:05:36 PM - SeleniumDriver - INFO: Element Found
+04052020 08:05:36 PM - SeleniumDriver - INFO: Element Clicked
+04052020 08:05:37 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04052020 08:05:37 PM - SeleniumDriver - INFO: Element Found
+04052020 08:05:37 PM - SeleniumDriver - INFO: Element Found
+04052020 08:05:37 PM - SeleniumDriver - INFO: Element Clicked
+04052020 08:05:40 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04052020 08:05:40 PM - TestResult - INFO: True added into the listLogin Verification
+04052020 08:05:40 PM - TestResult - INFO: True added into the listPage Title Verification
+04052020 08:05:42 PM - SeleniumDriver - INFO: Element Clicked
+04052020 08:05:42 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:42:20 PM - SeleniumDriver - INFO: Element Found
+04272020 02:42:20 PM - SeleniumDriver - INFO: Element Found
+04272020 02:42:20 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:42:23 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:42:23 PM - SeleniumDriver - INFO: Element Found
+04272020 02:42:23 PM - SeleniumDriver - INFO: Element Found
+04272020 02:42:23 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:42:30 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:42:30 PM - TestResult - INFO: True added into the listLogin Verification
+04272020 02:42:30 PM - TestResult - INFO: True added into the listPage Title Verification
+04272020 02:42:32 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:42:32 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:43:00 PM - SeleniumDriver - INFO: Element Found
+04272020 02:43:00 PM - SeleniumDriver - INFO: Element Found
+04272020 02:43:00 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:43:01 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:43:01 PM - SeleniumDriver - INFO: Element Found
+04272020 02:43:01 PM - SeleniumDriver - INFO: Element Found
+04272020 02:43:01 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:43:07 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:43:07 PM - TestResult - INFO: True added into the listLogin Verification
+04272020 02:43:07 PM - TestResult - INFO: True added into the listPage Title Verification
+04272020 02:43:09 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:43:09 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:48:40 PM - SeleniumDriver - INFO: Element Found
+04272020 02:48:40 PM - SeleniumDriver - INFO: Element Found
+04272020 02:48:40 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:48:41 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:48:41 PM - SeleniumDriver - INFO: Element Found
+04272020 02:48:41 PM - SeleniumDriver - INFO: Element Found
+04272020 02:48:41 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:48:44 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:48:44 PM - TestResult - INFO: True added into the listLogin Verification
+04272020 02:48:44 PM - TestResult - INFO: True added into the listPage Title Verification
+04272020 02:48:47 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:48:47 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:53:06 PM - SeleniumDriver - INFO: Element Found
+04272020 02:53:06 PM - SeleniumDriver - INFO: Element Found
+04272020 02:53:07 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:53:08 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:53:08 PM - SeleniumDriver - INFO: Element Found
+04272020 02:53:08 PM - SeleniumDriver - INFO: Element Found
+04272020 02:53:08 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:53:19 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 02:53:19 PM - TestResult - INFO: True added into the listLogin Verification
+04272020 02:53:19 PM - TestResult - INFO: True added into the listPage Title Verification
+04272020 02:53:21 PM - SeleniumDriver - INFO: Element Clicked
+04272020 02:53:21 PM - SeleniumDriver - INFO: Element Clicked
+04272020 03:16:29 PM - SeleniumDriver - INFO: Element Found
+04272020 03:16:30 PM - SeleniumDriver - INFO: Element Found
+04272020 03:16:30 PM - SeleniumDriver - INFO: Element Clicked
+04272020 03:16:31 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 03:16:31 PM - SeleniumDriver - INFO: Element Found
+04272020 03:16:32 PM - SeleniumDriver - INFO: Element Found
+04272020 03:16:32 PM - SeleniumDriver - INFO: Element Clicked
+04272020 03:17:21 PM - SeleniumDriver - INFO: Element Found
+04272020 03:17:21 PM - SeleniumDriver - INFO: Element Found
+04272020 03:17:21 PM - SeleniumDriver - INFO: Element Clicked
+04272020 03:17:24 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 03:17:24 PM - SeleniumDriver - INFO: Element Found
+04272020 03:17:24 PM - SeleniumDriver - INFO: Element Found
+04272020 03:17:24 PM - SeleniumDriver - INFO: Element Clicked
+04272020 03:17:30 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 03:17:30 PM - TestResult - INFO: True added into the listLogin Verification
+04272020 03:17:30 PM - TestResult - INFO: True added into the listPage Title Verification
+04272020 03:17:32 PM - SeleniumDriver - INFO: Element Clicked
+04272020 03:17:33 PM - SeleniumDriver - INFO: Element Clicked
+04272020 07:26:13 PM - SeleniumDriver - INFO: Element Found
+04272020 07:26:14 PM - SeleniumDriver - INFO: Element Found
+04272020 07:26:14 PM - SeleniumDriver - INFO: Element Clicked
+04272020 07:26:15 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 07:26:15 PM - SeleniumDriver - INFO: Element Found
+04272020 07:26:15 PM - SeleniumDriver - INFO: Element Found
+04272020 07:26:16 PM - SeleniumDriver - INFO: Element Clicked
+04272020 07:26:20 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04272020 07:26:20 PM - TestResult - INFO: True added into the listLogin Verification
+04272020 07:26:20 PM - TestResult - INFO: True added into the listPage Title Verification
+04272020 07:26:22 PM - SeleniumDriver - INFO: Element Clicked
+04272020 07:26:22 PM - SeleniumDriver - INFO: Element Clicked
+04282020 01:35:54 PM - SeleniumDriver - INFO: Element Found
+04282020 01:35:54 PM - SeleniumDriver - INFO: Element Found
+04282020 01:35:54 PM - SeleniumDriver - INFO: Element Clicked
+04282020 01:35:56 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04282020 01:35:56 PM - SeleniumDriver - INFO: Element Found
+04282020 01:35:57 PM - SeleniumDriver - INFO: Element Found
+04282020 01:35:57 PM - SeleniumDriver - INFO: Element Clicked
+04282020 01:36:00 PM - SeleniumDriver - INFO: is_element_present : Element Found
+04282020 01:36:00 PM - TestResult - INFO: True added into the listLogin Verification
+04282020 01:36:00 PM - TestResult - INFO: True added into the listPage Title Verification
+04282020 01:36:02 PM - SeleniumDriver - INFO: Element Clicked
+04282020 01:36:02 PM - SeleniumDriver - INFO: Element Clicked
